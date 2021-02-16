@@ -1,0 +1,7 @@
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=ButtonsStyle.module.css.map */

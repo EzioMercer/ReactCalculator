@@ -1,0 +1,11 @@
+.result {
+  font-size: 18px;
+  font-weight: 600;
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: gray;
+}
+
+/*# sourceMappingURL=ResultStyle.module.css.map */

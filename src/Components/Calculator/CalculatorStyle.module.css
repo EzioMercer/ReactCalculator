@@ -1,0 +1,14 @@
+.calculator {
+  width: 400px;
+  border: 1px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #cfe2f3;
+  padding: 30px 30px 40px 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=CalculatorStyle.module.css.map */

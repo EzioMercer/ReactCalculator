@@ -1,0 +1,10 @@
+.expression {
+  font-size: 24px;
+  font-weight: 600;
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/*# sourceMappingURL=ExpressionStyle.module.css.map */

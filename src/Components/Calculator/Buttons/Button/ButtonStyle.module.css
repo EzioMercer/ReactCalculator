@@ -1,0 +1,25 @@
+.button {
+  font-size: larger;
+  border: 1px solid black;
+  width: 21%;
+  height: 64px;
+  margin: 12px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ac {
+  background-color: #cccccc;
+}
+
+.simpleAction {
+  border-color: #ff9900;
+}
+
+.equal {
+  width: 47%;
+  background-color: #ff9900;
+}
+
+/*# sourceMappingURL=ButtonStyle.module.css.map */
